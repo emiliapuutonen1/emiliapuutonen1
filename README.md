@@ -1,4 +1,5 @@
-👋 Hi, I’m @emiliapuutonen1, an aspiring coder and software developer hoping to one day leave a lasting impact on the industry.
+#👋 
+Hi, I’m @emiliapuutonen1, an aspiring coder and software developer hoping to one day leave a lasting impact on the industry.
 👀 I’m interested in exploring new technologies, building innovative solutions, and contributing to the tech community. I harbor a particular interest in AI technologies due to their potential to revolutionize various sectors.
 🌱 I’m currently enrolled in a Java Masterclass to enhance my proficiency in Java programming and preparing for the Oracle Certificate for Java Programmer. Additionally, I'm undertaking Google Cloud Professional Data Engineering classes with the aim of obtaining the GCP Data Engineer certificate to further expand my skill set in cloud computing and data management.
 💞️ I’m looking to collaborate on exciting coding projects that challenge and inspire me.
